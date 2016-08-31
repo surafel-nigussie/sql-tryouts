@@ -1,0 +1,3 @@
+CREATE SCHEMA [MySchema]
+AUTHORIZATION [dbo]
+GO
